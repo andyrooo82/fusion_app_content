@@ -1,0 +1,30 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/IMDB.png"
+  },
+  {
+    "name": "IMDb Alt (IM)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/IMDB_alt.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/RT.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/Letterboxd.png"
+  },
+  {
+    "name": "Rotten Tomatoes Popcornmeter (PC)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/RT_Pop.png"
+  },
+  {
+    "name": "TMDb (TM)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/TMDB_alt.png"
+  },
+  {
+    "name": "Trakt (TR)",
+    "url": "https://raw.githubusercontent.com/andyrooo82/fusion_app_content/refs/heads/main/icons/Trakt.png"
+  }
+]
