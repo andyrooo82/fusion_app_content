@@ -1,1 +1,10 @@
-
+{
+  "addons" : [
+    "https:\/\/aiostreams.elfhosted.com\/stremio\/447ac259-2107-45e3-a65e-1f2de7f2a75a\/eyJpIjoiUkhJb2pZQlhMTVNud0FPYU9YQzhZUT09IiwiZSI6Ino2LzJYZFVzdU5kek15bWt3alR0QXpCc01UTVZMa00va0lPNGhqTThoSFU9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/aiostreams.elfhosted.com\/stremio\/5bab15de-55ea-4630-9f58-06278fe93a55\/eyJpIjoiR3dUSk8vT3BqRkZObU85M3poSFJKZz09IiwiZSI6IkpZQndMd2IrQXV5ZWdOZDVOVExwV3JvSUkvUE9NTVo1T1NQNGwycCtSUkE9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/fusion4k-streaming.duckdns.org\/stremio\/11e28de1-4d41-4ec6-9c52-54f830102376\/eyJpIjoiQW9HMzRDV3daKzJTUHhEcUxpWHFjdz09IiwiZSI6IjFDdDd6SUxwMHJBOEc0cVlsTzVuNC9aM3hTZWR1WE0vK2xkbHIzYk8yUVk9IiwidCI6ImEifQ\/manifest.json",
+    "https:\/\/fusionhd-streaming.duckdns.org\/stremio\/a4234dda-71b6-43ce-aff1-ffa086aff3f0\/eyJpIjoiR0xmcXNUWndTUXlEQXpJTGRFa3M3UT09IiwiZSI6InJMSW5weVcrS1kwaUYxeXluSm1DYnhXODhlVGZSYUtlaXBleEFUdFFJdTQ9IiwidCI6ImEifQ\/manifest.json"
+  ],
+  "exportType" : "fusionAddons",
+  "exportVersion" : 1
+}
