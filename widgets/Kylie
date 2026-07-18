@@ -5873,7 +5873,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158790",
                     "type": "series"
                   }
@@ -5890,7 +5890,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159365",
                     "type": "series"
                   }
@@ -5907,7 +5907,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159320",
                     "type": "movie"
                   }
@@ -5915,7 +5915,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159327",
                     "type": "series"
                   }
@@ -5945,7 +5945,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158623",
                     "type": "series"
                   }
@@ -5953,7 +5953,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158622",
                     "type": "movie"
                   }
@@ -5961,7 +5961,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160016",
                     "type": "movie"
                   }
@@ -5969,7 +5969,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160018",
                     "type": "series"
                   }
@@ -5986,7 +5986,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158635",
                     "type": "movie"
                   }
@@ -5994,7 +5994,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158634",
                     "type": "series"
                   }
@@ -6002,7 +6002,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160024",
                     "type": "movie"
                   }
@@ -6010,7 +6010,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160029",
                     "type": "series"
                   }
@@ -6027,7 +6027,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158629",
                     "type": "series"
                   }
@@ -6035,7 +6035,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158630",
                     "type": "movie"
                   }
@@ -6043,7 +6043,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160030",
                     "type": "movie"
                   }
@@ -6051,7 +6051,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160031",
                     "type": "series"
                   }
@@ -6068,7 +6068,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158637",
                     "type": "movie"
                   }
@@ -6076,7 +6076,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158636",
                     "type": "series"
                   }
@@ -6084,7 +6084,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160032",
                     "type": "movie"
                   }
@@ -6092,7 +6092,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160034",
                     "type": "series"
                   }
@@ -6109,7 +6109,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158643",
                     "type": "series"
                   }
@@ -6117,7 +6117,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158644",
                     "type": "movie"
                   }
@@ -6125,7 +6125,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160035",
                     "type": "movie"
                   }
@@ -6133,7 +6133,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160036",
                     "type": "series"
                   }
@@ -6150,7 +6150,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158646",
                     "type": "movie"
                   }
@@ -6158,7 +6158,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158645",
                     "type": "series"
                   }
@@ -6166,7 +6166,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160038",
                     "type": "movie"
                   }
@@ -6174,7 +6174,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160039",
                     "type": "series"
                   }
@@ -6191,7 +6191,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158639",
                     "type": "series"
                   }
@@ -6199,7 +6199,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158640",
                     "type": "movie"
                   }
@@ -6216,7 +6216,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158647",
                     "type": "series"
                   }
@@ -6224,7 +6224,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158648",
                     "type": "movie"
                   }
@@ -6241,7 +6241,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158650",
                     "type": "movie"
                   }
@@ -6249,7 +6249,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158649",
                     "type": "series"
                   }
@@ -6266,7 +6266,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158652",
                     "type": "movie"
                   }
@@ -6274,7 +6274,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158651",
                     "type": "series"
                   }
@@ -6291,7 +6291,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158641",
                     "type": "series"
                   }
@@ -6299,7 +6299,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158642",
                     "type": "movie"
                   }
@@ -6316,7 +6316,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158668",
                     "type": "movie"
                   }
@@ -6324,7 +6324,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158667",
                     "type": "series"
                   }
@@ -6341,7 +6341,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158654",
                     "type": "movie"
                   }
@@ -6349,7 +6349,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158653",
                     "type": "series"
                   }
@@ -6366,7 +6366,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158657",
                     "type": "movie"
                   }
@@ -6374,7 +6374,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158656",
                     "type": "series"
                   }
@@ -6391,7 +6391,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158658",
                     "type": "series"
                   }
@@ -6399,7 +6399,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158659",
                     "type": "movie"
                   }
@@ -6416,7 +6416,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158665",
                     "type": "series"
                   }
@@ -6424,7 +6424,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158666",
                     "type": "movie"
                   }
@@ -6441,7 +6441,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158664",
                     "type": "movie"
                   }
@@ -6449,7 +6449,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158663",
                     "type": "series"
                   }
@@ -6466,7 +6466,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158661",
                     "type": "movie"
                   }
@@ -6474,7 +6474,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158660",
                     "type": "series"
                   }
@@ -6491,7 +6491,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158669",
                     "type": "series"
                   }
@@ -6499,7 +6499,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158670",
                     "type": "movie"
                   }
@@ -6529,7 +6529,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158800",
                     "type": "movie"
                   }
@@ -6537,7 +6537,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158825",
                     "type": "series"
                   }
@@ -6554,7 +6554,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158801",
                     "type": "movie"
                   }
@@ -6562,7 +6562,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158826",
                     "type": "series"
                   }
@@ -6579,7 +6579,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158802",
                     "type": "movie"
                   }
@@ -6587,7 +6587,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158823",
                     "type": "series"
                   }
@@ -6604,7 +6604,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158803",
                     "type": "movie"
                   }
@@ -6612,7 +6612,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158827",
                     "type": "series"
                   }
@@ -6629,7 +6629,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158804",
                     "type": "movie"
                   }
@@ -6637,7 +6637,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158828",
                     "type": "series"
                   }
@@ -6654,7 +6654,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158805",
                     "type": "movie"
                   }
@@ -6662,7 +6662,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158829",
                     "type": "series"
                   }
@@ -6679,7 +6679,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158806",
                     "type": "movie"
                   }
@@ -6687,7 +6687,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158824",
                     "type": "series"
                   }
@@ -6704,7 +6704,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158807",
                     "type": "movie"
                   }
@@ -6712,7 +6712,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158830",
                     "type": "series"
                   }
@@ -6729,7 +6729,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158809",
                     "type": "movie"
                   }
@@ -6737,7 +6737,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158831",
                     "type": "series"
                   }
@@ -6754,7 +6754,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158810",
                     "type": "movie"
                   }
@@ -6762,7 +6762,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158832",
                     "type": "series"
                   }
@@ -6779,7 +6779,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158811",
                     "type": "movie"
                   }
@@ -6787,7 +6787,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158834",
                     "type": "series"
                   }
@@ -6804,7 +6804,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160049",
                     "type": "series"
                   }
@@ -6821,7 +6821,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158812",
                     "type": "movie"
                   }
@@ -6829,7 +6829,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158835",
                     "type": "series"
                   }
@@ -6846,7 +6846,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158813",
                     "type": "movie"
                   }
@@ -6854,7 +6854,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158836",
                     "type": "series"
                   }
@@ -6871,7 +6871,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158814",
                     "type": "movie"
                   }
@@ -6879,7 +6879,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158837",
                     "type": "series"
                   }
@@ -6896,7 +6896,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158815",
                     "type": "movie"
                   }
@@ -6904,7 +6904,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158838",
                     "type": "series"
                   }
@@ -6921,7 +6921,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158816",
                     "type": "movie"
                   }
@@ -6938,7 +6938,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159674",
                     "type": "movie"
                   }
@@ -6955,7 +6955,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158840",
                     "type": "series"
                   }
@@ -6963,7 +6963,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158817",
                     "type": "movie"
                   }
@@ -6980,7 +6980,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158818",
                     "type": "movie"
                   }
@@ -6988,7 +6988,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158841",
                     "type": "series"
                   }
@@ -7005,7 +7005,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158819",
                     "type": "movie"
                   }
@@ -7013,7 +7013,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158842",
                     "type": "series"
                   }
@@ -7030,7 +7030,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159308",
                     "type": "movie"
                   }
@@ -7038,7 +7038,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159309",
                     "type": "series"
                   }
@@ -7055,7 +7055,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159798",
                     "type": "movie"
                   }
@@ -7063,7 +7063,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159802",
                     "type": "series"
                   }
@@ -7093,7 +7093,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158796",
                     "type": "movie"
                   }
@@ -7110,7 +7110,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158791",
                     "type": "movie"
                   }
@@ -7127,7 +7127,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158792",
                     "type": "movie"
                   }
@@ -7144,7 +7144,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158793",
                     "type": "movie"
                   }
@@ -7161,7 +7161,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158794",
                     "type": "movie"
                   }
@@ -7178,7 +7178,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158795",
                     "type": "movie"
                   }
@@ -7208,7 +7208,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159441",
                     "type": "movie"
                   }
@@ -7225,7 +7225,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159458",
                     "type": "movie"
                   }
@@ -7242,7 +7242,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159455",
                     "type": "movie"
                   }
@@ -7259,7 +7259,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159463",
                     "type": "movie"
                   }
@@ -7276,7 +7276,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159453",
                     "type": "movie"
                   }
@@ -7293,7 +7293,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159454",
                     "type": "movie"
                   }
@@ -7310,7 +7310,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159472",
                     "type": "movie"
                   }
@@ -7327,7 +7327,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159467",
                     "type": "movie"
                   }
@@ -7344,7 +7344,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159456",
                     "type": "movie"
                   }
@@ -7361,7 +7361,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159464",
                     "type": "movie"
                   }
@@ -7378,7 +7378,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159471",
                     "type": "movie"
                   }
@@ -7395,7 +7395,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159466",
                     "type": "movie"
                   }
@@ -7412,7 +7412,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159468",
                     "type": "movie"
                   }
@@ -7429,7 +7429,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159452",
                     "type": "movie"
                   }
@@ -7446,7 +7446,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159465",
                     "type": "movie"
                   }
@@ -7463,7 +7463,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159451",
                     "type": "movie"
                   }
@@ -7480,7 +7480,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159449",
                     "type": "movie"
                   }
@@ -7497,7 +7497,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159457",
                     "type": "movie"
                   }
@@ -7514,7 +7514,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159462",
                     "type": "movie"
                   }
@@ -7531,7 +7531,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159469",
                     "type": "movie"
                   }
@@ -7561,7 +7561,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159249",
                     "type": "movie"
                   }
@@ -7569,7 +7569,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159250",
                     "type": "series"
                   }
@@ -7586,7 +7586,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158991",
                     "type": "series"
                   }
@@ -7594,7 +7594,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158990",
                     "type": "movie"
                   }
@@ -7611,7 +7611,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159264",
                     "type": "movie"
                   }
@@ -7619,7 +7619,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159265",
                     "type": "series"
                   }
@@ -7636,7 +7636,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159048",
                     "type": "series"
                   }
@@ -7644,7 +7644,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159047",
                     "type": "movie"
                   }
@@ -7661,7 +7661,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159028",
                     "type": "movie"
                   }
@@ -7669,7 +7669,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159277",
                     "type": "series"
                   }
@@ -7686,7 +7686,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159258",
                     "type": "movie"
                   }
@@ -7694,7 +7694,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159259",
                     "type": "series"
                   }
@@ -7711,7 +7711,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159252",
                     "type": "movie"
                   }
@@ -7728,7 +7728,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159281",
                     "type": "series"
                   }
@@ -7736,7 +7736,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159225",
                     "type": "movie"
                   }
@@ -7753,7 +7753,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159263",
                     "type": "movie"
                   }
@@ -7770,7 +7770,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159236",
                     "type": "movie"
                   }
@@ -7778,7 +7778,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159237",
                     "type": "series"
                   }
@@ -7795,7 +7795,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158989",
                     "type": "series"
                   }
@@ -7803,7 +7803,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158987",
                     "type": "movie"
                   }
@@ -7820,7 +7820,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159029",
                     "type": "movie"
                   }
@@ -7828,7 +7828,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159031",
                     "type": "series"
                   }
@@ -7845,7 +7845,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158994",
                     "type": "movie"
                   }
@@ -7862,7 +7862,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159033",
                     "type": "movie"
                   }
@@ -7870,7 +7870,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159035",
                     "type": "series"
                   }
@@ -7887,7 +7887,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159219",
                     "type": "movie"
                   }
@@ -7904,7 +7904,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159056",
                     "type": "movie"
                   }
@@ -7921,7 +7921,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159009",
                     "type": "movie"
                   }
@@ -7938,7 +7938,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.158997",
                     "type": "series"
                   }
@@ -7946,7 +7946,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158996",
                     "type": "movie"
                   }
@@ -7963,7 +7963,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159004",
                     "type": "series"
                   }
@@ -7971,7 +7971,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159003",
                     "type": "movie"
                   }
@@ -7988,7 +7988,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158995",
                     "type": "movie"
                   }
@@ -8005,7 +8005,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159019",
                     "type": "movie"
                   }
@@ -8013,7 +8013,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159274",
                     "type": "series"
                   }
@@ -8030,7 +8030,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159052",
                     "type": "movie"
                   }
@@ -8038,7 +8038,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159054",
                     "type": "series"
                   }
@@ -8055,7 +8055,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159040",
                     "type": "movie"
                   }
@@ -8063,7 +8063,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159041",
                     "type": "series"
                   }
@@ -8080,7 +8080,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159282",
                     "type": "series"
                   }
@@ -8088,7 +8088,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159233",
                     "type": "movie"
                   }
@@ -8105,7 +8105,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159014",
                     "type": "movie"
                   }
@@ -8122,7 +8122,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159243",
                     "type": "series"
                   }
@@ -8130,7 +8130,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159242",
                     "type": "movie"
                   }
@@ -8147,7 +8147,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159038",
                     "type": "movie"
                   }
@@ -8155,7 +8155,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159039",
                     "type": "series"
                   }
@@ -8172,7 +8172,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159248",
                     "type": "series"
                   }
@@ -8180,7 +8180,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159247",
                     "type": "movie"
                   }
@@ -8197,7 +8197,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159276",
                     "type": "series"
                   }
@@ -8205,7 +8205,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159027",
                     "type": "movie"
                   }
@@ -8222,7 +8222,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159086",
                     "type": "movie"
                   }
@@ -8230,7 +8230,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159087",
                     "type": "series"
                   }
@@ -8247,7 +8247,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159042",
                     "type": "movie"
                   }
@@ -8255,7 +8255,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159043",
                     "type": "series"
                   }
@@ -8272,7 +8272,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159222",
                     "type": "series"
                   }
@@ -8280,7 +8280,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159220",
                     "type": "movie"
                   }
@@ -8297,7 +8297,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159010",
                     "type": "movie"
                   }
@@ -8305,7 +8305,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159011",
                     "type": "series"
                   }
@@ -8322,7 +8322,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159232",
                     "type": "series"
                   }
@@ -8330,7 +8330,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159231",
                     "type": "movie"
                   }
@@ -8347,7 +8347,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159239",
                     "type": "series"
                   }
@@ -8355,7 +8355,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159238",
                     "type": "movie"
                   }
@@ -8372,7 +8372,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159046",
                     "type": "movie"
                   }
@@ -8389,7 +8389,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159257",
                     "type": "series"
                   }
@@ -8397,7 +8397,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159256",
                     "type": "movie"
                   }
@@ -8414,7 +8414,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159255",
                     "type": "movie"
                   }
@@ -8431,7 +8431,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159078",
                     "type": "movie"
                   }
@@ -8439,7 +8439,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159279",
                     "type": "series"
                   }
@@ -8456,7 +8456,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159090",
                     "type": "series"
                   }
@@ -8464,7 +8464,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159089",
                     "type": "movie"
                   }
@@ -8481,7 +8481,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159080",
                     "type": "series"
                   }
@@ -8489,7 +8489,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159079",
                     "type": "movie"
                   }
@@ -8506,7 +8506,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159226",
                     "type": "movie"
                   }
@@ -8523,7 +8523,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159228",
                     "type": "movie"
                   }
@@ -8531,7 +8531,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159230",
                     "type": "series"
                   }
@@ -8548,7 +8548,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159241",
                     "type": "movie"
                   }
@@ -8556,7 +8556,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159284",
                     "type": "series"
                   }
@@ -8573,7 +8573,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159001",
                     "type": "series"
                   }
@@ -8581,7 +8581,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.158999",
                     "type": "movie"
                   }
@@ -8598,7 +8598,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159002",
                     "type": "movie"
                   }
@@ -8615,7 +8615,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159253",
                     "type": "movie"
                   }
@@ -8623,7 +8623,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159254",
                     "type": "series"
                   }
@@ -8640,7 +8640,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159477",
                     "type": "movie"
                   }
@@ -8657,7 +8657,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160067",
                     "type": "movie"
                   }
@@ -8674,7 +8674,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159244",
                     "type": "movie"
                   }
@@ -8691,7 +8691,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159283",
                     "type": "series"
                   }
@@ -8699,7 +8699,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159235",
                     "type": "movie"
                   }
@@ -8716,7 +8716,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159286",
                     "type": "series"
                   }
@@ -8724,7 +8724,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159240",
                     "type": "movie"
                   }
@@ -8741,7 +8741,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159008",
                     "type": "movie"
                   }
@@ -8758,7 +8758,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159044",
                     "type": "movie"
                   }
@@ -8775,7 +8775,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159262",
                     "type": "series"
                   }
@@ -8783,7 +8783,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159261",
                     "type": "movie"
                   }
@@ -8800,7 +8800,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159251",
                     "type": "movie"
                   }
@@ -8808,7 +8808,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159285",
                     "type": "series"
                   }
@@ -8825,7 +8825,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159278",
                     "type": "series"
                   }
@@ -8833,7 +8833,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159018",
                     "type": "movie"
                   }
@@ -8850,7 +8850,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159017",
                     "type": "series"
                   }
@@ -8858,7 +8858,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159016",
                     "type": "movie"
                   }
@@ -8875,7 +8875,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159084",
                     "type": "movie"
                   }
@@ -8883,7 +8883,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159280",
                     "type": "series"
                   }
@@ -8913,7 +8913,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159685",
                     "type": "movie"
                   }
@@ -8930,7 +8930,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159686",
                     "type": "movie"
                   }
@@ -8947,7 +8947,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159687",
                     "type": "movie"
                   }
@@ -8964,7 +8964,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159693",
                     "type": "movie"
                   }
@@ -8981,7 +8981,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159684",
                     "type": "movie"
                   }
@@ -8998,7 +8998,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159689",
                     "type": "movie"
                   }
@@ -9015,7 +9015,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159688",
                     "type": "movie"
                   }
@@ -9032,7 +9032,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159700",
                     "type": "movie"
                   }
@@ -9049,7 +9049,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159680",
                     "type": "movie"
                   }
@@ -9066,7 +9066,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159678",
                     "type": "movie"
                   }
@@ -9083,7 +9083,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159699",
                     "type": "movie"
                   }
@@ -9100,7 +9100,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159690",
                     "type": "movie"
                   }
@@ -9117,7 +9117,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159677",
                     "type": "movie"
                   }
@@ -9134,7 +9134,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159691",
                     "type": "movie"
                   }
@@ -9151,7 +9151,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159695",
                     "type": "movie"
                   }
@@ -9168,7 +9168,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159696",
                     "type": "movie"
                   }
@@ -9185,7 +9185,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159698",
                     "type": "movie"
                   }
@@ -9202,7 +9202,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159697",
                     "type": "movie"
                   }
@@ -9219,7 +9219,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159692",
                     "type": "movie"
                   }
@@ -9236,7 +9236,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159694",
                     "type": "movie"
                   }
@@ -9266,7 +9266,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159414",
                     "type": "movie"
                   }
@@ -9283,7 +9283,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159412",
                     "type": "movie"
                   }
@@ -9300,7 +9300,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159408",
                     "type": "series"
                   }
@@ -9317,7 +9317,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159385",
                     "type": "movie"
                   }
@@ -9334,7 +9334,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160235",
                     "type": "movie"
                   }
@@ -9351,7 +9351,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160006",
                     "type": "movie"
                   }
@@ -9368,7 +9368,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160239",
                     "type": "movie"
                   }
@@ -9385,7 +9385,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160238",
                     "type": "movie"
                   }
@@ -9415,7 +9415,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160008",
                     "type": "movie"
                   }
@@ -9432,7 +9432,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160009",
                     "type": "series"
                   }
@@ -9449,7 +9449,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159982",
                     "type": "movie"
                   }
@@ -9457,7 +9457,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159984",
                     "type": "series"
                   }
@@ -9474,7 +9474,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.159997",
                     "type": "series"
                   }
@@ -9482,7 +9482,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159996",
                     "type": "movie"
                   }
@@ -9499,7 +9499,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.143863",
                     "type": "movie"
                   }
@@ -9516,7 +9516,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159905",
                     "type": "movie"
                   }
@@ -9533,7 +9533,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.884",
                     "type": "series"
                   }
@@ -9550,7 +9550,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159896",
                     "type": "movie"
                   }
@@ -9567,7 +9567,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.131",
                     "type": "series"
                   }
@@ -9584,7 +9584,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159912",
                     "type": "movie"
                   }
@@ -9601,7 +9601,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159975",
                     "type": "movie"
                   }
@@ -9618,7 +9618,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.29",
                     "type": "series"
                   }
@@ -9635,7 +9635,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.330",
                     "type": "series"
                   }
@@ -9643,7 +9643,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.20131034",
                     "type": "series"
                   }
@@ -9660,7 +9660,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.1996672",
                     "type": "series"
                   }
@@ -9677,7 +9677,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159901",
                     "type": "movie"
                   }
@@ -9685,7 +9685,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159903",
                     "type": "movie"
                   }
@@ -9702,7 +9702,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159955",
                     "type": "movie"
                   }
@@ -9719,7 +9719,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159893",
                     "type": "movie"
                   }
@@ -9736,7 +9736,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.81",
                     "type": "series"
                   }
@@ -9753,7 +9753,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159926",
                     "type": "movie"
                   }
@@ -9770,7 +9770,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.15",
                     "type": "series"
                   }
@@ -9787,7 +9787,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.143870",
                     "type": "movie"
                   }
@@ -9804,7 +9804,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.5022174",
                     "type": "series"
                   }
@@ -9821,7 +9821,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.4436019",
                     "type": "series"
                   }
@@ -9838,7 +9838,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.896",
                     "type": "series"
                   }
@@ -9855,7 +9855,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159851",
                     "type": "movie"
                   }
@@ -9872,7 +9872,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.126",
                     "type": "series"
                   }
@@ -9889,7 +9889,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.21",
                     "type": "series"
                   }
@@ -9906,7 +9906,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.38",
                     "type": "series"
                   }
@@ -9923,7 +9923,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.1531",
                     "type": "series"
                   }
@@ -9940,7 +9940,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.995",
                     "type": "series"
                   }
@@ -9957,7 +9957,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.169",
                     "type": "series"
                   }
@@ -9974,7 +9974,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.1798",
                     "type": "series"
                   }
@@ -9991,7 +9991,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.3513847",
                     "type": "series"
                   }
@@ -10008,7 +10008,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159877",
                     "type": "movie"
                   }
@@ -10025,7 +10025,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159936",
                     "type": "movie"
                   }
@@ -10042,7 +10042,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.335",
                     "type": "series"
                   }
@@ -10059,7 +10059,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159876",
                     "type": "movie"
                   }
@@ -10076,7 +10076,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159954",
                     "type": "movie"
                   }
@@ -10093,7 +10093,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.151",
                     "type": "series"
                   }
@@ -10110,7 +10110,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.1065",
                     "type": "series"
                   }
@@ -10127,7 +10127,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.68",
                     "type": "series"
                   }
@@ -10144,7 +10144,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159906",
                     "type": "movie"
                   }
@@ -10161,7 +10161,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159945",
                     "type": "movie"
                   }
@@ -10178,7 +10178,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.143882",
                     "type": "movie"
                   }
@@ -10195,7 +10195,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159874",
                     "type": "movie"
                   }
@@ -10212,7 +10212,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159884",
                     "type": "movie"
                   }
@@ -10229,7 +10229,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159891",
                     "type": "movie"
                   }
@@ -10246,7 +10246,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.162279",
                     "type": "movie"
                   }
@@ -10263,7 +10263,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159974",
                     "type": "movie"
                   }
@@ -10280,7 +10280,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159956",
                     "type": "movie"
                   }
@@ -10297,7 +10297,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.137",
                     "type": "series"
                   }
@@ -10314,7 +10314,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.130",
                     "type": "series"
                   }
@@ -10331,7 +10331,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.411",
                     "type": "series"
                   }
@@ -10348,7 +10348,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.22823347",
                     "type": "series"
                   }
@@ -10365,7 +10365,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.58",
                     "type": "series"
                   }
@@ -10382,7 +10382,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.620",
                     "type": "series"
                   }
@@ -10399,7 +10399,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.162557",
                     "type": "movie"
                   }
@@ -10416,7 +10416,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.251",
                     "type": "series"
                   }
@@ -10433,7 +10433,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.11488806",
                     "type": "series"
                   }
@@ -10450,7 +10450,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.22922356",
                     "type": "series"
                   }
@@ -10467,7 +10467,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.854",
                     "type": "series"
                   }
@@ -10484,7 +10484,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159942",
                     "type": "movie"
                   }
@@ -10501,7 +10501,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.4921178",
                     "type": "series"
                   }
@@ -10518,7 +10518,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159904",
                     "type": "movie"
                   }
@@ -10535,7 +10535,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159853",
                     "type": "movie"
                   }
@@ -10552,7 +10552,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159878",
                     "type": "movie"
                   }
@@ -10569,7 +10569,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159855",
                     "type": "movie"
                   }
@@ -10586,7 +10586,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159951",
                     "type": "movie"
                   }
@@ -10603,7 +10603,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.53",
                     "type": "series"
                   }
@@ -10620,7 +10620,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159952",
                     "type": "movie"
                   }
@@ -10637,7 +10637,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159929",
                     "type": "movie"
                   }
@@ -10654,7 +10654,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.19471398",
                     "type": "series"
                   }
@@ -10671,7 +10671,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159910",
                     "type": "movie"
                   }
@@ -10688,7 +10688,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159943",
                     "type": "movie"
                   }
@@ -10705,7 +10705,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.412",
                     "type": "series"
                   }
@@ -10722,7 +10722,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.65",
                     "type": "series"
                   }
@@ -10739,7 +10739,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159882",
                     "type": "movie"
                   }
@@ -10756,7 +10756,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.162384",
                     "type": "movie"
                   }
@@ -10773,7 +10773,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.977",
                     "type": "series"
                   }
@@ -10790,7 +10790,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159948",
                     "type": "movie"
                   }
@@ -10807,7 +10807,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159867",
                     "type": "movie"
                   }
@@ -10824,7 +10824,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.76",
                     "type": "series"
                   }
@@ -10841,7 +10841,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.1381",
                     "type": "series"
                   }
@@ -10858,7 +10858,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.218",
                     "type": "series"
                   }
@@ -10875,7 +10875,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159870",
                     "type": "movie"
                   }
@@ -10892,7 +10892,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.389",
                     "type": "series"
                   }
@@ -10909,7 +10909,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159880",
                     "type": "movie"
                   }
@@ -10926,7 +10926,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159887",
                     "type": "movie"
                   }
@@ -10943,7 +10943,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.313",
                     "type": "series"
                   }
@@ -10960,7 +10960,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.409",
                     "type": "series"
                   }
@@ -10977,7 +10977,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "all::trakt.list.534",
                     "type": "series"
                   }
@@ -10994,7 +10994,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159844",
                     "type": "movie"
                   }
@@ -11011,7 +11011,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.159895",
                     "type": "movie"
                   }
@@ -11041,7 +11041,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160245",
                     "type": "movie"
                   }
@@ -11058,7 +11058,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160243",
                     "type": "movie"
                   }
@@ -11075,7 +11075,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160257",
                     "type": "movie"
                   }
@@ -11092,7 +11092,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160272",
                     "type": "movie"
                   }
@@ -11109,7 +11109,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160274",
                     "type": "movie"
                   }
@@ -11126,7 +11126,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160269",
                     "type": "movie"
                   }
@@ -11143,7 +11143,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160054",
                     "type": "movie"
                   }
@@ -11160,7 +11160,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160241",
                     "type": "movie"
                   }
@@ -11177,7 +11177,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160271",
                     "type": "movie"
                   }
@@ -11194,7 +11194,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160266",
                     "type": "movie"
                   }
@@ -11211,7 +11211,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160267",
                     "type": "movie"
                   }
@@ -11228,7 +11228,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160270",
                     "type": "movie"
                   }
@@ -11245,7 +11245,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160273",
                     "type": "movie"
                   }
@@ -11262,7 +11262,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.162280",
                     "type": "movie"
                   }
@@ -11279,7 +11279,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160265",
                     "type": "movie"
                   }
@@ -11296,7 +11296,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "movie::mdblist.160263",
                     "type": "movie"
                   }
@@ -11304,7 +11304,7 @@
                 {
                   "kind": "addonCatalog",
                   "payload": {
-                    "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+                    "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
                     "catalogId": "series::mdblist.160264",
                     "type": "series"
                   }
@@ -11333,7 +11333,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160045",
           "type": "movie"
         }
@@ -11356,7 +11356,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160048",
           "type": "series"
         }
@@ -11379,7 +11379,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160016",
           "type": "movie"
         }
@@ -11402,7 +11402,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160018",
           "type": "series"
         }
@@ -11425,7 +11425,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160024",
           "type": "movie"
         }
@@ -11448,7 +11448,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160029",
           "type": "series"
         }
@@ -11471,7 +11471,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160030",
           "type": "movie"
         }
@@ -11494,7 +11494,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160031",
           "type": "series"
         }
@@ -11517,7 +11517,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160032",
           "type": "movie"
         }
@@ -11540,7 +11540,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160034",
           "type": "series"
         }
@@ -11563,7 +11563,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160035",
           "type": "movie"
         }
@@ -11586,7 +11586,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160036",
           "type": "series"
         }
@@ -11609,7 +11609,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "movie::mdblist.160038",
           "type": "movie"
         }
@@ -11632,7 +11632,7 @@
       "dataSource": {
         "kind": "addonCatalog",
         "payload": {
-          "addonId": "https://aiometa-streaming.duckdns.org/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
+          "addonId": "http://192.168.68.100:3001/stremio/ba02bc51-044b-4242-bd3d-fe2e3a5b395a/manifest.json",
           "catalogId": "series::mdblist.160039",
           "type": "series"
         }
