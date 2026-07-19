@@ -1,1 +1,78 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "requiredAddons" : [
+    "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json"
+  ],
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::publicmetadb.list.qn3z1l1cv19dec7",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "7ddc2af4-84b0-41fe-8203-23a4c96580ab",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/vH9k7TLG\/watchlist.png",
+              "title" : "Watchlist"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.158678",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "ec2da998-6c1d-4f5e-98c6-7f7413e62f2d",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/gkHRm77c\/trending-movies.png",
+              "title" : "Trending Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "series::mdblist.158679",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "f1f269ba-3b7d-4c94-9874-8cd4edd15d24",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/nhVmzk8c\/trending-shows.png",
+              "title" : "Trending Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.158684",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "ae22a414-811f-4c93-a70b-d1f0b2c064a0",
+              "imageAspect" : "wide",
 
