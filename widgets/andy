@@ -187,7 +187,7 @@
               "hideTitle" : false,
               "id" : "85066132-12a1-474d-8232-6593e490d310",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/3R9D8yrK\/netflix.png",
+              "imageURL" : "http:\/\/192.168.68.100:8889\/assets\/netflix.png",
               "title" : "Netflix"
             },
             {
