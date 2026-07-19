@@ -1,0 +1,422 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "localWatchlist",
+        "payload" : {
+          "filter" : "all"
+        }
+      },
+      "id" : "localWatchlist.71A8BB58-2B2B-4FC5-B311-F7E7D131BDF0",
+      "title" : "Watchlist",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            16,
+            10751
+          ],
+          "limit" : 50,
+          "sortBy" : "popularity.desc",
+          "type" : "movie",
+          "voteCountGTE" : 50
+        }
+      },
+      "id" : "starter.family.animation",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "small"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Family & Animation",
+      "type" : "row.classic"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "series::mdblist.158669",
+                    "type" : "series"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.158670",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "f713e31f-dbe5-4ee3-94f8-597fa8f9a01f",
+              "imageAspect" : "wide",
+              "imageURL": "http://192.168.68.100:8889/assets/netflix-kids.png",
+              "title" : "Netflix Kids"
+            }
+          ]
+        }
+      },
+      "id" : "collection.157378f3-5711-4526-95fb-680d761e2e03",
+      "title" : "Streaming Services",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.158809",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "series::mdblist.158831",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "aa3caa80-71af-4049-973c-2ca678e3680e",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.postimg.cc\/zGXbRh8V\/Family.png",
+              "title" : "Family"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.158811",
+                    "type" : "movie"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "series::mdblist.158834",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "d92d674b-82f7-4e60-8a91-196af959250b",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.postimg.cc\/rF9Rmj6P\/Animation.png",
+              "title" : "Animation"
+            }
+          ]
+        }
+      },
+      "id" : "collection.3c9152d0-7cbd-4470-8673-3bd39a3884ae",
+      "title" : "Genres",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.159700",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "619ecd5c-6723-4b45-9f10-2e947a13313a",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/tR34qCP6\/disney.png",
+              "title" : "Walt Disney Animation Studio"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.159680",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "7a0fad08-7c57-470a-a8c7-f6557efc78b1",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/WpG1Nbrg\/dreamworks.png",
+              "title" : "DreamWorks Animation"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.159678",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "311954c4-6ec2-4728-ab16-efe4cedcc57c",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/SNmNJF7W\/pixar.png",
+              "title" : "Pixar Animation Studios"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "movie::mdblist.159699",
+                    "type" : "movie"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "1816c0bf-10fe-4667-ba23-9b697c1bc46a",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/bYxwyNbb\/illumination.png",
+              "title" : "Illumination"
+            }
+          ]
+        }
+      },
+      "id" : "collection.7e71cf82-9cf4-48fc-b4f1-aa1a6aa33ea6",
+      "title" : "Studios",
+      "type" : "collection.row"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.330",
+                    "type" : "series"
+                  }
+                },
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.20131034",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "d0b43e24-cf84-4fc9-bfa6-24a24383f8c9",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/zvB2MYvP\/The-Lion-King.jpg",
+              "title" : "The Lion King"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.1996672",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "18c8e3a7-220a-43c3-afad-b4955ca9f855",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/PJxVcnJw\/Frozen.jpg",
+              "title" : "Frozen"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.896",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "73474e25-13b0-4458-ab2b-cec7e715762a",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/5tgPKk46\/Despicable-Me.jpg",
+              "title" : "Despicable Me"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.130",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "f4f9836a-23a0-4ae2-afa8-313a27ceb6fa",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/0QZHcykM\/Madagascar.jpg",
+              "title" : "Madagascar"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.411",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "83922c08-30f9-4554-b60f-1f72055ddcae",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/FKNWZQ4J\/Kung-Fu-Panda.jpg",
+              "title" : "Kung Fu Panda"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.22823347",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "2fd0f7f9-22cc-4adf-9fa8-28c226fbc15e",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/L6qDcT9y\/Sing-2.jpg",
+              "title" : "Sing"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "addonCatalog",
+                  "payload" : {
+                    "addonId" : "http:\/\/192.168.68.100:3001\/stremio\/00f1070c-fd46-49f5-9ee7-fddb62bafb3b\/manifest.json",
+                    "catalogId" : "all::trakt.list.58",
+                    "type" : "series"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "19365be7-d5ca-40b4-a53f-63fd40d41421",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/3R3cXvHL\/Ice-Age2.jpg",
+              "title" : "Ice Age"
+            }
+          ]
+        }
+      },
+      "id" : "collection.af4fe85b-c8c7-4f5c-b8d4-5ca4859c2225",
+      "title" : "Collections",
+      "type" : "collection.row"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            10762
+          ],
+          "limit" : 100,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "popularity.desc",
+          "type" : "movie"
+        }
+      },
+      "id" : "discover.62524774-23E4-4110-A564-57CE22A69BAB",
+      "limit" : 100,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Popular Kids Films",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 1800,
+      "dataSource" : {
+        "kind" : "tmdbDiscover",
+        "payload" : {
+          "includeGenres" : [
+            10762
+          ],
+          "limit" : 50,
+          "releaseChannel" : "digital",
+          "releaseStatus" : "released",
+          "sortBy" : "popularity.desc",
+          "type" : "tv"
+        }
+      },
+      "id" : "discover.8A638650-E273-49D8-B9C7-192585A29070",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "sort" : "popularity.desc",
+      "title" : "Popular Kids Shows",
+      "type" : "row.classic"
+    }
+  ]
+}
